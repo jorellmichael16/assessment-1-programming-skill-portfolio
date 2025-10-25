@@ -4,7 +4,7 @@ Created on Sun Oct 12 23:18:36 2025
 
 @author: jorel
 """
-password = (input("Make a password "))#asks the user for a password
+password = 12345 #asks the user for a password
 attempts = 0
 while attempts <= 6: #loops six times
     pasword = (input("Enter your password "))
@@ -22,5 +22,6 @@ while attempts <= 6: #loops six times
        
       
       
+
 
       
